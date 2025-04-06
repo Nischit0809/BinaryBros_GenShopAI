@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "description": "High-quality wireless headphones with noise cancellation and 20-hour battery life.",
+    "price": 89.99
+  },
+  {
+    "id": 2,
+    "name": "Slim Fit Cotton Shirt",
+    "category": "Apparel",
+    "description": "Men's slim-fit shirt made of breathable organic cotton. Perfect for both formal and casual wear.",
+    "price": 29.99
+  },
+  {
+    "id": 3,
+    "name": "Ergonomic Office Chair",
+    "category": "Furniture",
+    "description": "Adjustable office chair with lumbar support and breathable mesh back.",
+    "price": 149.99
+  },
+  {
+    "id": 4,
+    "name": "Smart Fitness Watch",
+    "category": "Electronics",
+    "description": "Track your steps, heart rate, sleep and workouts with this waterproof fitness tracker.",
+    "price": 59.99
+  },
+  {
+    "id": 5,
+    "name": "Organic Green Tea - 100 bags",
+    "category": "Grocery",
+    "description": "Rich in antioxidants, this green tea is sourced from organic farms in Assam.",
+    "price": 12.49
+  },
+  {
+    "id": 6,
+    "name": "Portable Phone Charger 10000mAh",
+    "category": "Electronics",
+    "description": "Compact and fast-charging power bank with USB-C and micro USB ports.",
+    "price": 24.99
+  },
+  {
+    "id": 7,
+    "name": "Noise-Isolating Earbuds",
+    "category": "Electronics",
+    "description": "In-ear earbuds with silicone tips for comfort and passive noise isolation.",
+    "price": 15.99
+  },
+  {
+    "id": 8,
+    "name": "Yoga Mat - Non-slip 6mm",
+    "category": "Fitness",
+    "description": "Comfortable, non-slip yoga mat for all types of yoga and pilates routines.",
+    "price": 25.99
+  },
+  {
+    "id": 9,
+    "name": "Laptop Stand - Adjustable Aluminum",
+    "category": "Electronics",
+    "description": "Sturdy, adjustable stand to improve laptop ergonomics and airflow.",
+    "price": 34.99
+  },
+  {
+    "id": 10,
+    "name": "Stylish Leather Wallet",
+    "category": "Accessories",
+    "description": "Compact and durable leather wallet with 8 card slots and a coin pocket.",
+    "price": 19.99
+  }
+]

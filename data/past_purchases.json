@@ -1,0 +1,35 @@
+[
+  {
+    "user_id": 1,
+    "purchased_product_ids": [
+      18,
+      12,
+      13,
+      2,
+      5
+    ]
+  },
+  {
+    "user_id": 2,
+    "purchased_product_ids": [
+      12,
+      9
+    ]
+  },
+  {
+    "user_id": 3,
+    "purchased_product_ids": [
+      12
+    ]
+  },
+  {
+    "user_id": 4,
+    "purchased_product_ids": [
+      12
+    ]
+  },
+  {
+    "user_id": 5,
+    "purchased_product_ids": []
+  }
+]

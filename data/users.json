@@ -1,0 +1,38 @@
+[
+    {
+      "user_id": 1,
+      "name": "Aarav",
+      "interests": "I'm into fitness, yoga, and healthy lifestyle. I also enjoy hiking.",
+      "past_purchases": [8, 5],
+      "preferred_categories": ["Fitness", "Grocery", "Outdoors"]
+    },
+    {
+      "user_id": 2,
+      "name": "Meera",
+      "interests": "I love home decor, kitchen gadgets, and baking on weekends.",
+      "past_purchases": [3],
+      "preferred_categories": ["Home & Kitchen", "Grocery"]
+    },
+    {
+      "user_id": 3,
+      "name": "Ravi",
+      "interests": "I'm a tech enthusiast who likes new gadgets, wireless devices, and accessories.",
+      "past_purchases": [1, 6, 7],
+      "preferred_categories": ["Electronics", "Accessories"]
+    },
+    {
+      "user_id": 4,
+      "name": "Sneha",
+      "interests": "I read self-help and productivity books. I'm into wellness and skincare too.",
+      "past_purchases": [],
+      "preferred_categories": ["Books", "Beauty & Health"]
+    },
+    {
+      "user_id": 5,
+      "name": "Karan",
+      "interests": "Love stylish fashion, minimalist wallets, and smart office gear.",
+      "past_purchases": [2, 9, 10],
+      "preferred_categories": ["Fashion", "Accessories", "Electronics"]
+    }
+  ]
+  

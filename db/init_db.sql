@@ -1,0 +1,16 @@
+-- init_db.sql
+CREATE TABLE IF NOT EXISTS chat_memory (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    user_id INTEGER NOT NULL,
+    message TEXT NOT NULL,
+    response TEXT NOT NULL,
+    timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS feedback (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    user_id INTEGER NOT NULL,
+    product_id INTEGER NOT NULL,
+    feedback_text TEXT,
+    timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
+);

@@ -1,0 +1,38 @@
+[
+  {
+    "user_id": "1",
+    "product_id": "2",
+    "event_type": "click",
+    "timestamp": "2025-04-05T13:31:32.222793"
+  },
+  {
+    "user_id": "1",
+    "product_id": "2",
+    "event_type": "click",
+    "timestamp": "2025-04-05T21:45:03.920422"
+  },
+  {
+    "user_id": "1",
+    "product_id": "15",
+    "event_type": "view",
+    "timestamp": "2025-04-06T18:46:29.925018"
+  },
+  {
+    "user_id": "1",
+    "product_id": "2",
+    "event_type": "buy",
+    "timestamp": "2025-04-06T20:36:45.006223"
+  },
+  {
+    "user_id": "1",
+    "product_id": "2",
+    "event_type": "buy",
+    "timestamp": "2025-04-06T20:38:13.102021"
+  },
+  {
+    "user_id": "3",
+    "product_id": "5",
+    "event_type": "buy",
+    "timestamp": "2025-04-06T20:52:39.726301"
+  }
+]
